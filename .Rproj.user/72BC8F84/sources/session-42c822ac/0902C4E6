@@ -3,9 +3,9 @@
     "path": "C:/Users/practica.aarellano/Desktop/tvn2025.github.io/tvn2025.qmd",
     "project_path": "tvn2025.qmd",
     "type": "quarto_markdown",
-    "hash": "2847668437",
+    "hash": "0",
     "contents": "",
-    "dirty": false,
+    "dirty": true,
     "created": 1736799687583.0,
     "source_on_save": false,
     "relative_order": 2,
@@ -19,7 +19,7 @@
         "scrollLine": "0",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "51:0"
+        "rmdVisualModeLocation": "35:0"
     },
     "folds": "",
     "lastKnownWriteTime": 1736863665,
